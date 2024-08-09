@@ -1,0 +1,11 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar arquivos de sistema
+.DS_Store
+
+# Ignorar outros arquivos gerados automaticamente
+__pycache__/
+*.pyc
+venv/
+data/processed/
